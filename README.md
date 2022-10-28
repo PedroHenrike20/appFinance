@@ -26,7 +26,7 @@ Hoje seu aplicativo está de cara nova, mas vale ressaltar que essa aparência j
 <img width="200" alt="logo-wordmark" src="https://user-images.githubusercontent.com/64162307/198692662-8e99adee-e787-4f5b-a819-77d5be6a6fbe.png"> <br>
 
 <!-- CSS -->
-<img align="center" alt="React" height="100" width="200" src="https://p7.hiclipart.com/preview/509/571/818/cascading-style-sheets-logo-css3-html-web-development-world-wide-web.jpg" /> 
+<img align="center" alt="React" height="100" width="100" src="https://p7.hiclipart.com/preview/509/571/818/cascading-style-sheets-logo-css3-html-web-development-world-wide-web.jpg" /> 
  </div>
 
 <br>
