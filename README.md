@@ -22,8 +22,8 @@ Hoje seu aplicativo está de cara nova, mas vale ressaltar que essa aparência j
 <!-- HTML -->
 <!-- REACT NATIVE -->
 <div>
-<img align="center"  alt="HTML" width="200" height="80" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" style="margin-right: 25px"/> <br>
-<img width="200" alt="logo-wordmark" src="https://user-images.githubusercontent.com/64162307/198692662-8e99adee-e787-4f5b-a819-77d5be6a6fbe.png"> <br>
+<img align="center"  alt="HTML" width="200" height="80" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" style="margin-right: 25px"/> <br> <br>
+<img width="200" alt="logo-wordmark" src="https://user-images.githubusercontent.com/64162307/198692662-8e99adee-e787-4f5b-a819-77d5be6a6fbe.png"> <br> <br>
 
 <!-- CSS -->
 <img align="center" alt="React" height="100" width="100" src="https://p7.hiclipart.com/preview/509/571/818/cascading-style-sheets-logo-css3-html-web-development-world-wide-web.jpg" /> 
